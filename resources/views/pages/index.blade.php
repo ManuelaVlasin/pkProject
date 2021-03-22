@@ -2,5 +2,5 @@
 
 @section('content')
     <h1>{{$title + 'Hello'}} Hello</h1>
-        <p>Hello</p>
+        <p>Morning</p>
 @endsection
