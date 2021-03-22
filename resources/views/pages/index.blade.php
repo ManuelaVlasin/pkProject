@@ -2,5 +2,5 @@
 
 @section('content')
     <h1>{{$title}}</h1>
-        <p>This is a laravel tutorial series</p>
+        <p>Hello</p>
 @endsection
